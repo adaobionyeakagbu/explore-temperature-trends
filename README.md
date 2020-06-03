@@ -3,7 +3,7 @@
 Exploring Weather Trends 
 by Adaobi Onyeakagbu
 
-The general idea of this project is to visualize and analyze local and global temperature data and compare the temperature trends in Hamburg to overall global temperature trends using 
+The general idea of this project is to visualize and analyze local and global temperature data provided by Udacity and compare the temperature trends in Hamburg to overall global temperature trends using 
 - SQL to query the data from the database
 - Python and Pandas to analyse the data
 
